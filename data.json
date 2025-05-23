@@ -1,0 +1,277 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Maruti",
+      "model": "Brezza",
+      "year": 2023,
+      "type": "SUV",
+      "price": "₹9,50,000",
+      "mileage": "19.8 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "features": ["ABS", "Dual Airbags", "Touchscreen Infotainment", "Reverse Camera"],
+      "availability": true
+    },
+    {
+      "id": 2,
+      "make": "Hyundai",
+      "model": "i20",
+      "year": 2023,
+      "type": "Hatchback",
+      "price": "₹8,20,000",
+      "mileage": "20.3 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "features": ["Cruise Control", "Sunroof", "Android Auto", "6 Airbags"],
+      "availability": true
+    },
+    {
+      "id": 3,
+      "make": "Tata",
+      "model": "Punch",
+      "year": 2024,
+      "type": "Compact SUV",
+      "price": "₹7,50,000",
+      "mileage": "18.8 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "features": ["Hill Hold Assist", "Dual Airbags", "Rear Parking Sensors"],
+      "availability": false
+    },
+    {
+      "id": 4,
+      "make": "Kia",
+      "model": "Seltos",
+      "year": 2024,
+      "type": "SUV",
+      "price": "₹10,50,000",
+      "mileage": "17.5 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "features": ["Wireless Charger", "Ventilated Seats", "360° Camera"],
+      "availability": true
+    },
+    {
+      "id": 5,
+      "make": "Mahindra",
+      "model": "XUV300",
+      "year": 2023,
+      "type": "Compact SUV",
+      "price": "₹8,90,000",
+      "mileage": "18.2 kmpl",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "features": ["ESC", "6 Airbags", "Panoramic Sunroof"],
+      "availability": true
+    },
+    {
+      "id": 6,
+      "make": "Toyota",
+      "model": "Urban Cruiser",
+      "year": 2023,
+      "type": "SUV",
+      "price": "₹9,80,000",
+      "mileage": "17.9 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "features": ["Toyota Safety Sense", "Apple CarPlay", "Lane Departure Alert"],
+      "availability": false
+    },
+    {
+      "id": 7,
+      "make": "Maruti",
+      "model": "Swift",
+      "year": 2024,
+      "type": "Hatchback",
+      "price": "₹6,20,000",
+      "mileage": "21.2 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "features": ["ABS", "Dual Airbags", "SmartPlay Studio"],
+      "availability": true
+    },
+    {
+      "id": 8,
+      "make": "Ford",
+      "model": "EcoSport",
+      "year": 2023,
+      "type": "Compact SUV",
+      "price": "₹9,20,000",
+      "mileage": "15.0 kmpl",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "features": ["Terrain Management", "FordPass Connect", "6 Airbags"],
+      "availability": true
+    },
+    {
+      "id": 9,
+      "make": "Honda",
+      "model": "Jazz",
+      "year": 2023,
+      "type": "Hatchback",
+      "price": "₹8,50,000",
+      "mileage": "18.4 kmpl",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "features": ["Magic Seats", "Honda Connect", "Dual Front Airbags"],
+      "availability": false
+    },
+    {
+      "id": 10,
+      "make": "Volkswagen",
+      "model": "Taigun",
+      "year": 2024,
+      "type": "SUV",
+      "price": "₹11,00,000",
+      "mileage": "16.5 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "features": ["Digital Cockpit", "Park Assist", "6 Airbags"],
+      "availability": true
+    },
+    {
+      "id": 11,
+      "make": "Skoda",
+      "model": "Slavia",
+      "year": 2023,
+      "type": "Sedan",
+      "price": "₹10,20,000",
+      "mileage": "18.0 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "features": ["Virtual Cockpit", "LED Headlamps", "Airbags x6"],
+      "availability": true
+    },
+    {
+      "id": 12,
+      "make": "Renault",
+      "model": "Kiger",
+      "year": 2024,
+      "type": "Compact SUV",
+      "price": "₹7,20,000",
+      "mileage": "20.5 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "features": ["Digital Instrument Cluster", "Cruise Control"],
+      "availability": true
+    },
+    {
+      "id": 13,
+      "make": "MG",
+      "model": "Hector",
+      "year": 2023,
+      "type": "SUV",
+      "price": "₹13,00,000",
+      "mileage": "14.2 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "features": ["360° Camera", "Panoramic Sunroof", "6 Airbags"],
+      "availability": true
+    },
+    {
+      "id": 14,
+      "make": "Nissan",
+      "model": "Magnite",
+      "year": 2024,
+      "type": "Compact SUV",
+      "price": "₹6,80,000",
+      "mileage": "20.0 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "features": ["LED DRLs", "ESC", "Dual Airbags"],
+      "availability": false
+    },
+    {
+      "id": 15,
+      "make": "Volkswagen",
+      "model": "Polo",
+      "year": 2023,
+      "type": "Hatchback",
+      "price": "₹7,50,000",
+      "mileage": "19.2 kmpl",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "features": ["Touchscreen", "ABS", "Dual Airbags"],
+      "availability": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which cars are available right now?",
+      "answer": "Currently available models are: Brezza, i20, Seltos, XUV300, Swift, EcoSport, Taigun, Slavia, Kiger, Hector, and Polo."
+    },
+    {
+      "question": "Is the Tata Punch available?",
+      "answer": "No, the Tata Punch is currently out of stock. You can ask me to notify you when it's back in stock!"
+    },
+    {
+      "question": "How much does the Hyundai i20 cost?",
+      "answer": "The 2023 Hyundai i20 is priced at ₹8,20,000."
+    },
+    {
+      "question": "What is the mileage of the Skoda Slavia?",
+      "answer": "The Skoda Slavia offers a mileage of 18.0 kmpl in its petrol manual variant."
+    },
+    {
+      "question": "Do you have electric cars?",
+      "answer": "At the moment we do not stock any electric vehicles, but we can notify you when we get them!"
+    },
+    {
+      "question": "How do I book a test drive?",
+      "answer": "I can help you book a test drive. Please provide your name, contact number, car model, preferred date (YYYY-MM-DD), and time (HH:MM)."
+    },
+    {
+      "question": "I want to book a test drive for Volkswagen Taigun.",
+      "answer": "Great choice! Please share your full name."
+    },
+    {
+      "question": "My name is Priya Sharma.",
+      "answer": "Hi Priya! Could you please provide your contact number?"
+    },
+    {
+      "question": "My phone number is 9876543210.",
+      "answer": "Thanks! Which car model would you like to test drive?"
+    },
+    {
+      "question": "I'd like to test drive the Taigun.",
+      "answer": "Perfect. On which date would you like to schedule it? (Format: YYYY-MM-DD)"
+    },
+    {
+      "question": "2025-05-28.",
+      "answer": "Noted. At what time? (Format: HH:MM, e.g., 11:00)"
+    },
+    {
+      "question": "11:30",
+      "answer": "Thank you! Let me confirm—Priya Sharma, 9876543210, Volkswagen Taigun on 2025-05-28 at 11:30. Shall I finalize this booking?"
+    },
+    {
+      "question": "Yes, please finalize.",
+      "answer": "Your test drive is booked! We'll send a confirmation SMS shortly. Anything else I can help with?"
+    },
+    {
+      "question": "Can you compare Swift and Baleno?",
+      "answer": "Maruti Swift (₹6.2L, 21.2 kmpl) vs Maruti Baleno (₹7.1L, 22.0 kmpl). Swift is sportier; Baleno has more cabin space."
+    },
+    {
+      "question": "What financing options do you offer?",
+      "answer": "We offer EMIs starting at 7.5% p.a. over 12-60 months. Typical down payment is 10-20%."
+    },
+    {
+      "question": "How long does a test drive take?",
+      "answer": "Standard test drives last about 30 minutes, including a short showroom tour."
+    },
+    {
+      "question": "Do I need to bring any documents?",
+      "answer": "Just your driver's license and a copy of your ID proof."
+    },
+    {
+      "question": "Can I reschedule my test drive?",
+      "answer": "Yes—just let me know your booking ID or details, and I'll help you reschedule."
+    },
+    {
+      "question": "Thank you!",
+      "answer": "You're welcome! Feel free to ask anything else about our cars or services."
+    }
+  ]
+}
